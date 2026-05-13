@@ -7,16 +7,16 @@ redirect_from:
 ---
 
 * I’m **Yuxin Lu (陆宇昕)**, an undergraduate student majoring in **Data Science and Big Data Technology** at the [**School of Future Science and Engineering**](https://future.suda.edu.cn/main.htm), [**Soochow University**](https://www.suda.edu.cn/).
-* My recent research focuses on **generative models**, especially **image generation**, **video generation**, **talking-head generation**, **embodied AI**, and **multimodal large language models**. I am interested in research with strong real-world application value and close connections to everyday life.
+* In recent years, I have been focusing on **generative models**. Under the guidance of Prof. [**Min Cao**](https://web.suda.edu.cn/caomin/), [**Qian Qiao**](https://qianqiaoai.github.io/) and [**Jia Gong**](https://scholar.google.com/citations?user=ZV-ThegAAAAJ&hl=zh-CN&oi=sra), I have conducted in-depth research in the fields of **image generation** and **video generation**.
 * I am currently preparing for future Master’s/Ph.D. applications and looking forward to further diving into Artificial Intelligence. You can view my [**CV**](/files/YuxinLu_CV.pdf) or contact me at [**junesnow.lyx@gmail.com**](mailto:junesnow.lyx@gmail.com).
 
 # 🔥 News
 
 - *2026.05*: &nbsp;📄 **AsymTalker** is under review at **NeurIPS 2026**.
 - *2026.03*: &nbsp;🔬 Research internship at **Shanghai Academy of AI for Science**.
+- *2026.03*: &nbsp;📄 **SynTBPR** is under **Major Revision** at **IEEE TIFS**.
 - *2025.07*: &nbsp;🔬 Research internship at **Wuhan Institute of Artificial Intelligence**.
-- *2025.03*: &nbsp;📄 **SynTBPR** is under **Major Revision** at **IEEE TIFS**.
-- *2024.08*: &nbsp;🌐 Personal blog launched at [**junesnow.xyz**](https://junesnow.xyz).
+- *2024.08*: &nbsp;🌐 Personal blog launched at [**junesnow.top**](https://junesnow.top).
 
 # 📝 Research Publication
 
@@ -26,25 +26,23 @@ redirect_from:
 <p align="right"><em><a href="https://arxiv.org/pdf/2503.22171">Paper</a></em></p>
 
 - ***AsymTalker: Identity-Consistent Long-Term Talking Head Generation via Asymmetric Distillation***
-<p align="right"><em><strong>Yuxin Lu</strong>, Qian Qiao, Jiayang Sun, Min Cao, Guibo Zhu</em></p>
+<p align="right"><em><strong>Yuxin Lu*</strong>, Qian Qiao*, Jiayang Sun*, Guibo Zhu, Min Cao</em></p>
 <p align="right"><em>NeurIPS 2026, Under Review; CCF-A</em></p>
 <p align="right"><em><a href="https://arxiv.org/pdf/2605.02948">Paper</a></em></p>
 
 # 📖 Education & Experience
 
-* **Research Intern**, Shanghai Academy of AI for Science, Mar 2026 – Apr 2026 <img src="../images/sais-logo-round.png" width="9%" height="9%" alt="Shanghai Academy of AI for Science logo" align="right">
+* **B.Sc. in Data Science**, Soochow University, Sep 2023 – Present <img src="../images/suda.svg" width="44" alt="Soochow University logo" align="right">
 
-* **B.Sc. in Data Science**, Soochow University, Sep 2023 – Present <img src="../images/suda.svg" width="9%" height="9%" alt="Soochow University logo" align="right">
+* **Research Intern**, Shanghai Academy of AI for Science, Mar 2026 – Apr 2026 <img src="../images/sais-logo-round.png" width="44" alt="Shanghai Academy of AI for Science logo" align="right">
 
-* **Research Intern**, Wuhan Institute of Artificial Intelligence, Jul 2025 – Apr 2026 <img src="../images/wair.webp" width="9%" height="9%" alt="Wuhan Institute of Artificial Intelligence logo" align="right">
+* **Research Intern**, Wuhan Institute of Artificial Intelligence, Jul 2025 – Apr 2026 <img src="../images/wair.webp" width="44" alt="Wuhan Institute of Artificial Intelligence logo" align="right">
 
 # 🔬 Research Interests
 
 - **Video Generation**
 - **Embodied AI**
 - **Multimodal Large Language Models**
-- **Image Generation and Editing**
-- **Talking Head Generation**
 
 # 🧩 Projects
 
@@ -66,7 +64,7 @@ redirect_from:
 
 # ✍️ Blog & Notes
 
-- Personal Blog: [**JuneSnow Blog**](https://junesnow.xyz)
+- Personal Blog: [**JuneSnow Blog**](https://junesnow.top)
 - GitHub: [**lyx-JuneSnow**](https://github.com/lyx-JuneSnow)
 - Google Scholar: [**Yuxin Lu**](https://scholar.google.com/citations?user=cCOxW7kAAAAJ&hl=zh-CN)
 

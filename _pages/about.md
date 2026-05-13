@@ -8,7 +8,7 @@ redirect_from:
 
 * I’m **Yuxin Lu (陆宇昕)**, an undergraduate student majoring in **Data Science and Big Data Technology** at the [**School of Future Science and Engineering**](https://future.suda.edu.cn/main.htm), [**Soochow University**](https://www.suda.edu.cn/).
 * In recent years, I have been focusing on **generative models**. Under the guidance of Prof. [**Min Cao**](https://web.suda.edu.cn/caomin/), [**Qian Qiao**](https://qianqiaoai.github.io/) and [**Jia Gong**](https://scholar.google.com/citations?user=ZV-ThegAAAAJ&hl=zh-CN&oi=sra), I have conducted in-depth research in the fields of **image generation** and **video generation**.
-* I am currently preparing for future Master’s/Ph.D. applications and looking forward to further diving into Artificial Intelligence. You can view my [**CV**](/files/YuxinLu_CV.pdf) or contact me at [**junesnow.lyx@gmail.com**](mailto:junesnow.lyx@gmail.com).
+* I am currently preparing for future Master’s/Ph.D. applications and looking forward to further diving into Artificial Intelligence. You can view my [**CV**](/cv/) or contact me at [**junesnow.lyx@gmail.com**](mailto:junesnow.lyx@gmail.com).
 
 # 🔥 News
 

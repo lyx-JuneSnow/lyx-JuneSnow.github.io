@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 <div class="cv-viewer">
-  <iframe src="/files/YuxinLu_CV.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH" title="Yuxin Lu CV"></iframe>
+  <iframe src="/files/YuxinLu_CV.pdf#view=FitH" title="Yuxin Lu CV"></iframe>
 </div>

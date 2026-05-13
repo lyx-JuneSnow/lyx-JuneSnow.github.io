@@ -32,29 +32,35 @@ redirect_from:
 
 # 📖 Education & Experience
 
-<div class="education-list">
-  <div class="education-item">
-    <div>
+<table class="education-table">
+  <tr>
+    <td>
       <strong>B.Sc. in Data Science</strong>, Soochow University<br>
       <span>Sep 2023 – Present</span>
-    </div>
-    <img src="../images/suda.svg" alt="Soochow University logo">
-  </div>
-  <div class="education-item">
-    <div>
+    </td>
+    <td class="education-logo-cell" width="72" align="right" valign="middle" style="width:72px;text-align:right;vertical-align:middle;">
+      <img src="../images/suda.svg" width="52" height="52" alt="Soochow University logo" style="width:52px;height:52px;object-fit:contain;vertical-align:middle;">
+    </td>
+  </tr>
+  <tr>
+    <td>
       <strong>Research Intern</strong>, Shanghai Academy of AI for Science<br>
       <span>Mar 2026 – Apr 2026</span>
-    </div>
-    <img src="../images/sais-logo-round.png" alt="Shanghai Academy of AI for Science logo">
-  </div>
-  <div class="education-item">
-    <div>
+    </td>
+    <td class="education-logo-cell" width="72" align="right" valign="middle" style="width:72px;text-align:right;vertical-align:middle;">
+      <img src="../images/sais-logo-round.png" width="52" height="52" alt="Shanghai Academy of AI for Science logo" style="width:52px;height:52px;object-fit:contain;vertical-align:middle;">
+    </td>
+  </tr>
+  <tr>
+    <td>
       <strong>Research Intern</strong>, Wuhan Institute of Artificial Intelligence<br>
       <span>Jul 2025 – Apr 2026</span>
-    </div>
-    <img src="../images/wair.webp" alt="Wuhan Institute of Artificial Intelligence logo">
-  </div>
-</div>
+    </td>
+    <td class="education-logo-cell" width="72" align="right" valign="middle" style="width:72px;text-align:right;vertical-align:middle;">
+      <img src="../images/wair.webp" width="52" height="52" alt="Wuhan Institute of Artificial Intelligence logo" style="width:52px;height:52px;object-fit:contain;vertical-align:middle;">
+    </td>
+  </tr>
+</table>
 
 # 🔬 Research Interests
 

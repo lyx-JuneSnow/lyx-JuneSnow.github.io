@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 <div class="cv-viewer">
-  <object data="/files/YuxinLu_CV.pdf" type="application/pdf" width="100%" height="900">
-    <p>Your browser cannot display the embedded PDF. You can download it here: <a href="/files/YuxinLu_CV.pdf">YuxinLu_CV.pdf</a>.</p>
-  </object>
+  <iframe src="/files/YuxinLu_CV.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH" title="Yuxin Lu CV"></iframe>
 </div>
 
 [Download PDF](/files/YuxinLu_CV.pdf)

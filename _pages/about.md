@@ -32,11 +32,29 @@ redirect_from:
 
 # 📖 Education & Experience
 
-* **B.Sc. in Data Science**, Soochow University, Sep 2023 – Present <img src="../images/suda.svg" width="44" alt="Soochow University logo" align="right">
-
-* **Research Intern**, Shanghai Academy of AI for Science, Mar 2026 – Apr 2026 <img src="../images/sais-logo-round.png" width="44" alt="Shanghai Academy of AI for Science logo" align="right">
-
-* **Research Intern**, Wuhan Institute of Artificial Intelligence, Jul 2025 – Apr 2026 <img src="../images/wair.webp" width="44" alt="Wuhan Institute of Artificial Intelligence logo" align="right">
+<div class="education-list">
+  <div class="education-item">
+    <div>
+      <strong>B.Sc. in Data Science</strong>, Soochow University<br>
+      <span>Sep 2023 – Present</span>
+    </div>
+    <img src="../images/suda.svg" alt="Soochow University logo">
+  </div>
+  <div class="education-item">
+    <div>
+      <strong>Research Intern</strong>, Shanghai Academy of AI for Science<br>
+      <span>Mar 2026 – Apr 2026</span>
+    </div>
+    <img src="../images/sais-logo-round.png" alt="Shanghai Academy of AI for Science logo">
+  </div>
+  <div class="education-item">
+    <div>
+      <strong>Research Intern</strong>, Wuhan Institute of Artificial Intelligence<br>
+      <span>Jul 2025 – Apr 2026</span>
+    </div>
+    <img src="../images/wair.webp" alt="Wuhan Institute of Artificial Intelligence logo">
+  </div>
+</div>
 
 # 🔬 Research Interests
 

@@ -13,6 +13,7 @@ redirect_from:
 
 # 🔥 News
 
+- *2026.06*: &nbsp;🎉 **SynTBPR** has been accepted by **IEEE TIFS**.
 - *2026.05*: &nbsp;📄 **AsymTalker** is under review at **NeurIPS 2026**.
 - *2026.03*: &nbsp;🔬 Research internship at **Shanghai Academy of AI for Science**.
 - *2026.03*: &nbsp;📄 **SynTBPR** is under **Major Revision** at **IEEE TIFS**.
@@ -23,7 +24,7 @@ redirect_from:
 
 - ***An Empirical Study of Validating Synthetic Data for Text-Based Person Retrieval***
 <p align="right"><em>Min Cao, <strong>Yuxin Lu</strong>, Ziyin Zeng, Mang Ye, Dong Yi, Jinqiao Wang</em></p>
-<p align="right"><em>IEEE TIFS, Major Revision; CCF-A, SCI Q1</em></p>
+<p align="right"><em>IEEE TIFS, Accepted; CCF-A, SCI Q1</em></p>
 <p align="right"><em><a href="https://arxiv.org/pdf/2503.22171">Paper</a></em></p>
 
 - ***AsymTalker: Identity-Consistent Long-Term Talking Head Generation via Asymmetric Distillation***

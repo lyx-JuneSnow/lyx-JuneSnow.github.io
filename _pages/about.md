@@ -6,10 +6,10 @@ redirect_from:
   - /about.html
 ---
 
-* I’m **Yuxin Lu (陆宇昕)**, an undergraduate student majoring in **Data Science and Big Data Technology** at the [**School of Future Science and Engineering**](https://future.suda.edu.cn/main.htm), [**Soochow University**](https://www.suda.edu.cn/).
+* I’m **Yuxin Lu (陆宇昕)**, an undergraduate student majoring in **Data Science and Big Data Technology** at the [**School of Future Science and Engineering**](https://future.suda.edu.cn/main.htm), [**Soochow University**](https://www.suda.edu.cn/). I will begin my master’s studies at the [**College of Computer Science and Artificial Intelligence**](https://ai.fudan.edu.cn/), [**Fudan University**](https://www.fudan.edu.cn/), in Fall 2027.
 * In recent years, I have been focusing on **generative models**. Under the guidance of Prof. [**Min Cao**](https://web.suda.edu.cn/caomin/), [**Qian Qiao**](https://qianqiaoai.github.io/) and [**Jia Gong**](https://scholar.google.com/citations?user=ZV-ThegAAAAJ&hl=zh-CN&oi=sra), I have conducted in-depth research in the fields of **image generation** and **video generation**.
 * My long-term research interests are focused on **Video Generation**, **Embodied AI**, and **Multimodal Large Language Models**.
-* I am currently preparing for future Master’s/Ph.D. applications and looking forward to further diving into Artificial Intelligence. You can view my [**CV**](/cv/) or contact me at [**junesnow.lyx@gmail.com**](mailto:junesnow.lyx@gmail.com).
+* I look forward to continuing my research in Artificial Intelligence. You can view my [**CV**](/cv/) or contact me at [**junesnow.lyx@gmail.com**](mailto:junesnow.lyx@gmail.com).
 
 # 🔥 News
 

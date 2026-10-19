@@ -37,6 +37,16 @@ redirect_from:
 <table class="education-table">
   <tr>
     <td>
+      <strong>Incoming M.Sc. Student</strong>, Fudan University<br>
+      <span>College of Computer Science and Artificial Intelligence</span><br>
+      <span>Starting Sep 2027</span>
+    </td>
+    <td class="education-logo-cell" width="72" align="right" valign="middle" style="width:72px;text-align:right;vertical-align:middle;">
+      <img src="../images/fudan.svg" width="52" height="52" alt="Fudan University logo" style="width:52px;height:52px;object-fit:contain;vertical-align:middle;">
+    </td>
+  </tr>
+  <tr>
+    <td>
       <strong>B.Sc. in Data Science</strong>, Soochow University<br>
       <span>Sep 2023 – Present</span>
     </td>
